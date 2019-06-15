@@ -1,4 +1,4 @@
-# finonacci-garden
+# finonacci Garden
 simple  experiment with canvas
 
 # DEMO
